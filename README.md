@@ -7,3 +7,4 @@ Miembros:
 Ramas:
  - Tarea A: Responsable Ramón Carmenaty
  - Tarea B: Responsable Lucas Gutiérrez
+ - Tarea C: Responsable Lucas Gutiérrez
