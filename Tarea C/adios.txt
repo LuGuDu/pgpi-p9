@@ -1,1 +1,2 @@
 Ramón ha creado este archivo.
+Lucas ha escrito algo al mismo tiempo que Ramón, y le va a generar un conflicto.
