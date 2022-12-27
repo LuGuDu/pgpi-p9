@@ -1,3 +1,4 @@
 Ramón ha creado este archivo.
 Ramón ha modificado este archivo.
-Lucas esta intentando crear un conflicto.
+Ramón ha vuelto a modificar este archivo.
+(Lucas resolvió el conflicto aceptando los cambios de Ramón y creando esta nueva linea)
